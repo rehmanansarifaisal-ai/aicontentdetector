@@ -1,0 +1,5 @@
+PyQt5
+requests
+python-dotenv
+spacy     # optional
+transformers torch sentence-transformers  # optional, heavy
